@@ -20,6 +20,7 @@ class Shader {
 	~Shader();
 
 	private:
+
 	ID3DBlob* blob_ = nullptr;
 
 };
