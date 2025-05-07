@@ -42,7 +42,7 @@ Shader::~Shader() {
 	if (blob_ != nullptr) {
 	
 	blob_->Release();
-		blob_ = nullptr;
+	blob_ = nullptr;
 	
 	}
 
