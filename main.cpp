@@ -2,6 +2,7 @@
 #include <Windows.h>
 #include <d3dcompiler.h>
 
+
 using namespace KamataEngine;
 
 //関数プロトタイプ宣言
