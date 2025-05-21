@@ -225,5 +225,4 @@ ID3DBlob* CompileShader(const std::wstring& filePath, const std::string& shaderM
 
 	//生成したshaderBlobを渡す
 	return shaderBlob;
-
 }
